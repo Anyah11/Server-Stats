@@ -13,7 +13,7 @@ A simple Bash script (`server-stats.sh`) to quickly analyze basic server perform
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/server-stats.sh.git
+   git clone https://github.com/Anyah11/Server-Stats.git
    ```
 2. Navigate into the project directory:
    ```bash
