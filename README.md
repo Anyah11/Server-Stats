@@ -30,3 +30,6 @@ A simple Bash script (`server-stats.sh`) to quickly analyze basic server perform
 
 ## Why this project?
 This script helps system administrators, DevOps engineers, and developers quickly get a snapshot of a server’s performance, aiding in debugging, monitoring, and overall system awareness.
+
+## project url
+https://roadmap.sh/projects/server-stats
